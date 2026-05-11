@@ -1,1 +1,5 @@
 .idea/
+./application/____pycache__/
+./application/db/__pycache__/
+*.pyc
+.venv/
